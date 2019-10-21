@@ -225,7 +225,7 @@ module.exports = {
      * > Be sure to use the right protocol!  ("http://" vs. "https://")         *
      *                                                                          *
      ***************************************************************************/
-    onlyAllowOrigins: ["https://pdizzi.herokuapp.com/"]
+    onlyAllowOrigins: ["https://pdizzi.herokuapp.com"]
 
     /***************************************************************************
      *                                                                          *
